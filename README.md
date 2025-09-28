@@ -2,6 +2,7 @@
 
 - Implementation of the attestation extension defined in [TCG DICE Attestation Architecture](https://trustedcomputinggroup.org/wp-content/uploads/TCG_DICE_Attestation_Architecture_r22_02dec2020.pdf).
 - Implementation of TCG DICE TCB Info evidence extension.
+- Implementation of CRL Extensions (Section 6.2) for certificate revocation management.
 - Implementation of [Open
   DICE](https://pigweed.googlesource.com/open-dice/+/refs/heads/master/docs/specification.md) certificate (CBOR and X.509) chain validation and claim extraction.
 
